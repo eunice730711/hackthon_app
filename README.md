@@ -1,2 +1,2 @@
 # hackthon_app
-Hackthon app version 1
+Hackthon app final version
